@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shivam kumar singh</h1>
-<h3 align="center">A passionate software engineer from India</h3>
 
+<h1 align="center">Hi I'm Shivam kumar singh 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+passionate+Andriod+Developer;A+Passionate+Designer)](https://git.io/typing-svg)
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-0109&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-0109" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-0109" alt="shivam-0109" /></a> </p>
