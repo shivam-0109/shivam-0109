@@ -7,7 +7,7 @@
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0109&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/shivam-0109)|[![shivam-0109's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivam-0109&theme=midnight-purple&hide_border=true)](https://github.com/shivam-0109)
-|[![shivam-0109's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam0109&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/shivam-0109)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/shivam-0109/count.svg)
+|[![shivam-0109's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-0109&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/shivam-0109)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/shivam-0109/count.svg)
 
 </p>
 
