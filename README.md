@@ -32,11 +32,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👀 I’m interested in software developmnent 
+- 
 - 🌱 I’m currently learning data structures and algorithms , web development
+- 
 - 💞️ I’m looking to collaborate on projects 
+- 
 - 📫 How to reach me :- 
+- 
 - ✅  singhshivam56@aol.com
+- 
 - ✅  disocrd :- Shivam#8288
+- 
 - ✅  instagram :- _shivam_0109_
 
 
