@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
+<h1 align="center">
+  <picture>
+    <!--img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"-->
+  </picture> Hello, I'm Shivam Kumar Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+  <br>
+</h1>
 <h3 align="center">Tech enthusiast | ML/DL & Web Developer | Turning ideas into intelligent solutions</h3>
 
 <p align="center">
