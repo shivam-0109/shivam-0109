@@ -22,7 +22,7 @@
 ---
 ### 💼 Experience  
 
-- **ML Engineer Intern – Samsung Electro-Mechanics (Bangalore)** *(Oct 2024 – Present)*  
+- **ML Engineer Engineering  – Samsung Electro-Mechanics (Bangalore)** *(Oct 2024 – Present)*  
   - Trained  and deployed **robotic agents** using reinforcement learning for real-world interaction in **NVIDIA ISAACLAB**.  
     - Focused on **collision avoidance, environment simulation, and reward optimization**.  
     - Experimented with **contact sensors, random noise injection, and robust training strategies**.  
