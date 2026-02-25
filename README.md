@@ -17,7 +17,7 @@
 - 🌱 Currently learning **ROS2, Reinforcement Learning**  
 - 💞️ Open to collaborating on **ML/DL, Web, and Open Source projects**  
 - 📫 Reach me at: **singhshivam56@aol.com**  
-- 🌐 Portfolio/Resume: [Click Here](https://drive.google.com/file/d/1pSMn6XzdUmT7FVdA7leprkQI3fZX07UL/view?usp=drive_link)  
+- 🌐 Portfolio/Resume: [Click Here](https://drive.google.com/file/d/1u_FcdGmc1RnLxkkDvjKgNsRrLOBsQzwY/view)  
 
 ---
 ### 💼 Experience  
